@@ -8,6 +8,16 @@
 
 #
 
+<img align="right" alt="CAT GIF" height="180px" src="cat2.gif">
+
+<h3 align="left">Connect with me!</h3>
+
+<div>
+  <p "ㅤ"></p>
+  <a href="mailto:nicolyott23@gmail.com" target="_blank"><img width="8.8%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=56118a" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolyott/" target="_blank"><img width="11.2%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=56118a" target="_blank"></a>
+</div>
+
 <!-- FERRAMENTAS -->
 ### 🛠 Ferramentas e Tecnologias
 <div align="left">
