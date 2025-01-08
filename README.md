@@ -5,6 +5,8 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=56118a&left=true&Left=true&random=false&width=524&lines=Olá,+eu+sou+a+Nicoly+." alt="Typing SVG">
   </ul>
 </div>
+       
+<p>Olá! Me chamo Nicoly, tenho 19 anos e sou estudante de Engenharia de Software. Atualmente, faço estágio na área de desenvolvimento, com foco em aprender e aplicar tecnologias relacionadas a Java. 🚀</p>
 
 #
 
