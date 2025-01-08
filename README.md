@@ -12,7 +12,7 @@
 
 <img align="right" alt="CAT GIF" height="180px" src="cat2.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Contatos</h3>
 
 <div>
   <p "ㅤ"></p>
@@ -21,7 +21,7 @@
 </div>
 
 <!-- FERRAMENTAS -->
-### 🛠 Ferramentas e Tecnologias
+<h3>Ferramentas e Tecnologias</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
