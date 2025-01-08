@@ -1,6 +1,6 @@
 <!-- TITLE -->
 <div id="user-content-toc">
-  <ul align="left">
+  <ul align="left">  
      <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=56118a&left=true&Left=true&random=false&width=524&lines=Olá,+eu+sou+a+Nicoly+." alt="Typing SVG">
   </ul>
@@ -17,7 +17,7 @@
 <div>
   <p "ㅤ"></p>
   <a href="mailto:nicolyott23@gmail.com" target="_blank"><img width="8.8%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=56118a" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolyott/" target="_blank"><img width="11.2%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=56118a" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolyott/" target="_blank"><img width="8.8%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=56118a" target="_blank"></a>
 </div>
 
 <!-- FERRAMENTAS -->
