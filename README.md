@@ -17,8 +17,8 @@ Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de n
 
 <div>
   <p "ㅤ"></p>
-  <a href="mailto:nicolyott23@gmail.com" target="_blank"><img width="8.8%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=56118a" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicolyott/" target="_blank"><img width="8.8%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=56118a" target="_blank"></a>
+  <a href="mailto:nicolyottdev@gmail.com" target="_blank"><img width="8.8%" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=56118a" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolyottdev/" target="_blank"><img width="8.8%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=56118a" target="_blank"></a>
 </div>
 
 <!-- FERRAMENTAS -->
