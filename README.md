@@ -2,11 +2,12 @@
 <div id="user-content-toc">
   <ul align="left">  
      <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=56118a&left=true&Left=true&random=false&width=524&lines=Olá,+eu+sou+a+Nicoly+." alt="Typing SVG">
+     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=56118a&left=true&Left=true&random=false&width=524&lines=Ola,+eu+sou+a+Nicoly." alt="Typing SVG">
   </ul>
 </div>
        
-<p>Olá! Me chamo Nicoly, tenho 19 anos e sou estudante de Engenharia de Software. Atualmente, faço estágio na área de desenvolvimento, com foco em aprender e aplicar tecnologias relacionadas a Java. 🚀</p>
+<p>Sou desenvolvedora backend com foco em <strong>Java</strong> e atualmente estou cursando <strong>Engenharia de Software</strong> na Univille. <br>
+Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de novos desafios que me ajudem a crescer profissionalmente.</p>
 
 #
 
