@@ -39,6 +39,6 @@ Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de n
 <h3 align="center">~ GitHub Stats ~</h3>
 
 <div style="text-align: center;" align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottnicoly&layout=compact&langs_count=7&theme=midnight-purple&height=25&hide=issues&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ottnicoly&layout=compact&langs_count=7&theme=midnight-purple&height=25&hide=issues"/> 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ottnicoly&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&height=25&hide=issues&layout=compact"/>
 </div>
