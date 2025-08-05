@@ -1,19 +1,27 @@
 <!-- TITLE -->
-<div id="user-content-toc">
+<!-- <div id="user-content-toc">
   <ul align="left">  
      <a href="https://git.io/typing-svg">
      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=56118a&left=true&Left=true&random=false&width=524&lines=Ola,+eu+sou+a+Nicoly." alt="Typing SVG">
   </ul>
-</div>
+</div> -->
+
+## Nicoly Cristina Ott
        
-<p>Sou desenvolvedora backend com foco em <strong>Java</strong> e atualmente estou cursando <strong>Engenharia de Software</strong> na Univille. <br>
-Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de novos desafios que me ajudem a crescer profissionalmente.</p>
+<p>
+  🎓 Software Engineering Student (6th/9th semester) | Univille <br>
+  💻 Working with Java in backend development <br>
+  
+  👩‍💻 I'm passionate about technology, continuous learning, and I'm always looking for new challenges that help me grow professionally.
+
+</p>
+
 
 #
 
 <img align="right" alt="CAT GIF" height="180px" src="cat2.gif">
 
-<h3 align="left">Contatos</h3>
+<h3 align="left">Contacts</h3>
 
 <div>
   <p "ㅤ"></p>
@@ -22,7 +30,7 @@ Tenho paixão por tecnologia, aprendizado contínuo e estou sempre em busca de n
 </div>
 
 <!-- FERRAMENTAS -->
-<h3>Tecnologias</h3>
+<h3>Stacks</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
